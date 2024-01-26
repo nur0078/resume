@@ -19,7 +19,7 @@ export const RESUME_DATA = {
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I work mostly with TypeScript, React, Node.js, and GraphQL.",
 
   avatarUrl: "https://www.anurodhpandey.com.np/assets/og-aae58940.png",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://www.anurodhpandey.com.np/",
   contact: {
     email: "anurodhp7@gmail.com",
     tel: "+61450380690",
@@ -35,7 +35,7 @@ export const RESUME_DATA = {
         icon: LinkedInIcon,
       },
       {
-        name: "URK",
+        name: "URL",
         url: "https://www.anurodhpandey.com.np/",
         icon: GlobeIcon,
       },

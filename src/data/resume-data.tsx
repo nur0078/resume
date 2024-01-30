@@ -50,17 +50,18 @@ export const RESUME_DATA = {
     },
   ],
   work: [
-    {
-      company: "Buzzketing",
-      link: "https://buzzketing.com.au/",
-      badges: ["Intern"],
-      title: "Full-stack Developer Intern",
-      logo: AnuIcon,
-      start: "2023",
-      end: "2023",
-      description:
-        "I played a key role in developing major features for a React.js application, leading to a 15% increase in user engagement within the first month after launch. My involvement extended to optimizing API response times in the back-end, where I employed efficient Node.js routines to achieve a 20% improvement. I also enhanced SQL database operations, contributing to a 12% faster data processing speed and a 5% reduction in server load. Additionally, I actively participated in code reviews, which helped in reducing the number of minor bugs by 10% and ensured adherence to higher code quality standards. Technologies: React, TypeScript, GraphQL",
-    },
+   
+    // {
+    //   company: "Buzzketing",
+    //   link: "https://buzzketing.com.au/",
+    //   badges: ["Intern"],
+    //   title: "Full-stack Developer Intern",
+    //   logo: AnuIcon,
+    //   start: "2023",
+    //   end: "2023",
+    //   description:
+    //     "I played a key role in developing major features for a React.js application, leading to a 15% increase in user engagement within the first month after launch. My involvement extended to optimizing API response times in the back-end, where I employed efficient Node.js routines to achieve a 20% improvement. I also enhanced SQL database operations, contributing to a 12% faster data processing speed and a 5% reduction in server load. Additionally, I actively participated in code reviews, which helped in reducing the number of minor bugs by 10% and ensured adherence to higher code quality standards. Technologies: React, TypeScript, GraphQL",
+    // },
     {
       company: "The Star Entertainment Group",
       link: "https://www.starentertainmentgroup.com.au/",

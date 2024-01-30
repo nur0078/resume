@@ -16,7 +16,7 @@ export const RESUME_DATA = {
   about:
     "Full-stack Developer from Sydney, Australia.",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I work mostly with TypeScript, React, Node.js, and GraphQL.",
+    "As a Frontend Engineer Engineer, I have successfully taken multiple products from 0 to 1. I work mostly with TypeScript, React, Node.js, and GraphQL.",
 
   avatarUrl: "https://www.anurodhpandey.com.np/assets/og-aae58940.png",
   personalWebsiteUrl: "https://www.anurodhpandey.com.np/",

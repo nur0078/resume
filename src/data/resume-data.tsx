@@ -51,28 +51,28 @@ export const RESUME_DATA = {
   ],
   work: [
    
-    // {
-    //   company: "Buzzketing",
-    //   link: "https://buzzketing.com.au/",
-    //   badges: ["Intern"],
-    //   title: "Full-stack Developer Intern",
-    //   logo: AnuIcon,
-    //   start: "2023",
-    //   end: "2023",
-    //   description:
-    //     "I played a key role in developing major features for a React.js application, leading to a 15% increase in user engagement within the first month after launch. My involvement extended to optimizing API response times in the back-end, where I employed efficient Node.js routines to achieve a 20% improvement. I also enhanced SQL database operations, contributing to a 12% faster data processing speed and a 5% reduction in server load. Additionally, I actively participated in code reviews, which helped in reducing the number of minor bugs by 10% and ensured adherence to higher code quality standards. Technologies: React, TypeScript, GraphQL",
-    // },
     {
-      company: "The Star Entertainment Group",
-      link: "https://www.starentertainmentgroup.com.au/",
-      badges: [],
-      title: "Table Games Dealer",
-      logo: TheStarLogo,
-      start: "2022",
-      end: "2024",
+      company: "Buzzketing",
+      link: "https://buzzketing.com.au/",
+      badges: ["Intern"],
+      title: "Software Developer Intern",
+      logo: AnuIcon,
+      start: "2023",
+      end: "2023",
       description:
-        "Engaged with a diverse array of customers, providing exceptional service in an upscale ambiance and averaging interactions with over 200 patrons daily. I skillfully orchestrated blackjack and poker tables, dealing approximately 100 hands each hour while maintaining a remarkable 99% accuracy rate. My position allowed me to cultivate strong interpersonal skills, enabling me to effortlessly handle a wide spectrum of customer inquiries and needs. I exhibited meticulous attention to detail, managing bets that ranged from modest $10 stakes to high-stakes wagers. Additionally, I was efficient at multitasking, adeptly catering to the demands of up to 10 or more patrons at any given table during peak hours.",
+        "I played a key role in developing major features for a React.js application, leading to a 15% increase in user engagement within the first month after launch. My involvement extended to optimizing API response times in the back-end, where I employed efficient Node.js routines to achieve a 20% improvement. I also enhanced SQL database operations, contributing to a 12% faster data processing speed and a 5% reduction in server load. Additionally, I actively participated in code reviews, which helped in reducing the number of minor bugs by 10% and ensured adherence to higher code quality standards. Technologies: React, TypeScript, GraphQL",
     },
+    // {
+    //   company: "The Star Entertainment Group",
+    //   link: "https://www.starentertainmentgroup.com.au/",
+    //   badges: [],
+    //   title: "Table Games Dealer",
+    //   logo: TheStarLogo,
+    //   start: "2022",
+    //   end: "2024",
+    //   description:
+    //     "Engaged with a diverse array of customers, providing exceptional service in an upscale ambiance and averaging interactions with over 200 patrons daily. I skillfully orchestrated blackjack and poker tables, dealing approximately 100 hands each hour while maintaining a remarkable 99% accuracy rate. My position allowed me to cultivate strong interpersonal skills, enabling me to effortlessly handle a wide spectrum of customer inquiries and needs. I exhibited meticulous attention to detail, managing bets that ranged from modest $10 stakes to high-stakes wagers. Additionally, I was efficient at multitasking, adeptly catering to the demands of up to 10 or more patrons at any given table during peak hours.",
+    // },
 
   ],
   skills: [
@@ -123,28 +123,28 @@ export const RESUME_DATA = {
         href: "https://anurodhpandey.com.np/",
       },
     },
-    {
-      title: "myTravels",
-      techStack: ["Side Project", "Next.js", "TypeScript", "Figma", "ReactJS",],
-      description:
-        "Personal travel journal.",
-      logo: Howdy,
-      link: {
-        label: "myTravels",
-        href: "https://travel-journal-bice.vercel.app/",
-      },
-    },
-    {
-      title: "Park-It",
-      techStack: ["Side Project", "Next.js", "Javscript", "Google API"],
-      description:
-        "Personal parking assitance app.",
-      logo: Howdy,
-      link: {
-        label: "ParkIt",
-        href: "https://park-it-five.vercel.app/",
-      },
-    },
+    // {
+    //   title: "myTravels",
+    //   techStack: ["Side Project", "Next.js", "TypeScript", "Figma", "ReactJS",],
+    //   description:
+    //     "Personal travel journal.",
+    //   logo: Howdy,
+    //   link: {
+    //     label: "myTravels",
+    //     href: "https://travel-journal-bice.vercel.app/",
+    //   },
+    // },
+    // {
+    //   title: "Park-It",
+    //   techStack: ["Side Project", "Next.js", "Javscript", "Google API"],
+    //   description:
+    //     "Personal parking assitance app.",
+    //   logo: Howdy,
+    //   link: {
+    //     label: "ParkIt",
+    //     href: "https://park-it-five.vercel.app/",
+    //   },
+    // },
 
     {
       title: "Digital Business Card",

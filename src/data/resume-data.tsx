@@ -45,7 +45,7 @@ export const RESUME_DATA = {
     {
       school: "Federation University of Australia",
       degree: "Bachelor's Degree in Information Technology",
-      start: "2020",
+      start: "",
       end: "2022",
     },
   ],
